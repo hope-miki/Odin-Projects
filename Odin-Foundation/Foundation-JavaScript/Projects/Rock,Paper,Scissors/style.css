@@ -1,0 +1,37 @@
+body {
+    text-align: center;
+    background-color: #2b2b28;
+  }
+  
+  button {
+    margin: 20px;
+    border: 0px;
+    padding: 20px;
+    font-size: 20px;
+    border-radius: 150px;
+    background-color: #ebebe3;
+    color: #4a4a48;
+  }
+  
+  button:hover {
+    background-color: #c19898;
+    color: #ebebe3;
+  }
+  
+  .container {
+    display: flex;
+    justify-content: center;
+  }
+  
+  #result {
+    font-size: 20px;
+    color: #ebebe3;
+    margin-top: 80px;
+    background-color: #4a4a48;
+    width: 500px;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 150px;
+  }
